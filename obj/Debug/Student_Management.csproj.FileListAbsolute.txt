@@ -1,0 +1,10 @@
+E:\CN5\PRN292\Group_WorkShop\Student_Management\bin\Debug\Student_Management.exe.config
+E:\CN5\PRN292\Group_WorkShop\Student_Management\bin\Debug\Student_Management.exe
+E:\CN5\PRN292\Group_WorkShop\Student_Management\bin\Debug\Student_Management.pdb
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.csproj.AssemblyReference.cache
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.Form1.resources
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.Properties.Resources.resources
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.csproj.GenerateResource.cache
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.csproj.CoreCompileInputs.cache
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.exe
+E:\CN5\PRN292\Group_WorkShop\Student_Management\obj\Debug\Student_Management.pdb
